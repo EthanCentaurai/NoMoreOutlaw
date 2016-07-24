@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: No More Outlaw
+## Notes: Outlaw Rogues are Combat Rogues once again.
+## Author: Ethan Centaurai
+## Version: @project-version@
+
+NoMoreOutlaw.lua
